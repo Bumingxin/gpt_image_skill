@@ -1,0 +1,5 @@
+{
+  "base_url": "https://your_url/v1",
+  "token": "your_token",
+  "model": "gpt-image-2"
+}
